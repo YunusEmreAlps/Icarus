@@ -77,7 +77,7 @@ LOCAL ACTION, GLOBAL IMPACT
 ## The Story of Icarus Name (App Name)
 
 The App Name Idea Coming From -> [Iron Maiden](https://www.youtube.com/watch?v=p4w2BZXL6Ss)
-When I was listen Iron Maiden song, I realize this is the song of mythological characther.
+When I was listening to Iron Maiden's song, I realize this is the song of a mythological characther.
 
 In Greek mythology, Icarus  was the son of the master craftsman Daedalus, the creator of the Labyrinth. Icarus and Daedalus attempt to escape from Crete by means of wings that Daedalus constructed from feathers and wax. Daedalus warns Icarus first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them. Icarus ignores Daedalus’s instructions not to fly too close to the sun, causing the wax in his wings to melt. He tumbles out of the sky, falls into the sea, and drowns. The myth gave rise to the idiom "don't fly too close to the sun".
 
