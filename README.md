@@ -183,15 +183,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Firebase             | Firebase
 :-------------------------:|:-------------------------:|
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/firebase/1.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/firebase/2.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/1.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/2.png?raw=true)|
 
 Firebase             | Firebase
 :-------------------------:|:-------------------------:|
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/firebase/3.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/4.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/3.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/4.png?raw=true)|
 
 Firebase             | Firebase
 :-------------------------:|:-------------------------:|
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/5.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/6.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/5.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/firebase/6.png?raw=true)|
 
 
 
@@ -201,24 +201,25 @@ Firebase             | Firebase
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/0.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/1.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/2.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/3.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/0.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/1.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/2.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/3.png?raw=true)|
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/4.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/5.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/6.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/7.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/4.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/5.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/6.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/7.png?raw=true)|
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/8.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/9.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/10.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/11.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/8.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/9.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/10.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/11.png?raw=true)|
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/12.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/23.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/14.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/15.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/12.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/23.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/14.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/15.png?raw=true)|
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/16.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/17.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/18.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/19.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/16.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/17.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/18.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/19.png?raw=true)|
+
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/20.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/21.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/22.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/icarus/ss/22.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/20.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/21.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/22.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/23.png?raw=true)|
