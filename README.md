@@ -225,7 +225,7 @@ Icarus               | Icarus             | Icarus               | Icarus
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/12.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/23.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/14.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/15.png?raw=true)|
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/12.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/13.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/14.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/15.png?raw=true)|
 
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
