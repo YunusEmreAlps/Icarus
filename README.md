@@ -24,7 +24,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#what-is-our-problem">About The Project</a>
+    </li>
+    <li>
+      <a href="#the-story-of-icarus-name">About Icarus</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -70,9 +73,17 @@ People want to act, but see that governments are moving too slow and that indivi
 
 LOCAL ACTION, GLOBAL IMPACT
 
-## What 
+<!-- ABOUT ICARUS -->
+## The Story of Icarus Name (App Name)
 
 The App Name Idea Coming From -> [Iron Maiden](https://www.youtube.com/watch?v=p4w2BZXL6Ss)
+When I was listen Iron Maiden song, I realize this is the song of mythological characther.
+
+In Greek mythology, Icarus  was the son of the master craftsman Daedalus, the creator of the Labyrinth. Icarus and Daedalus attempt to escape from Crete by means of wings that Daedalus constructed from feathers and wax. Daedalus warns Icarus first of complacency and then of hubris, instructing him to fly neither too low nor too high, lest the sea's dampness clog his wings or the sun's heat melt them. Icarus ignores Daedalus’s instructions not to fly too close to the sun, causing the wax in his wings to melt. He tumbles out of the sky, falls into the sea, and drowns. The myth gave rise to the idiom "don't fly too close to the sun".
+
+## Icaria (Team Name)
+
+Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical miles (19 km) southwest of Samos. According to tradition, it derives its name from Icarus, the son of Daedalus in Greek mythology, who was believed to have fallen into the sea nearby.
 
 <!-- ToDo -->
 ## ToDo 
