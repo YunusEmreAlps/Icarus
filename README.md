@@ -45,11 +45,10 @@
   </ol>
 </details>
 
-
-
+Note: The Presentation English for Solution Challenge
 
 <!-- ABOUT THE PROJECT -->
-## What is Our Problem
+## What is Our Problem?
 I had to wonder, with all the continuing ecological crisis facing the planet even if every single one of us adopted
 these conservation habits was this really gonna be enough to save the world?
 
@@ -103,6 +102,7 @@ Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical mi
 - [ ] Favorites
 - [ ] Settings
 - [x] Login Success Page
+- [ ] Payment System
 
 All data static right now but if something happens in this hackathon everything can be...
 
@@ -223,3 +223,8 @@ Icarus               | Icarus             | Icarus               | Icarus
 Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/20.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/21.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/22.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/23.png?raw=true)|
+
+
+Icarus               | Icarus             | Icarus               | Icarus
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/24.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/25.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/26.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/27.png?raw=true)|

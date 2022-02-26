@@ -1,4 +1,5 @@
 // Flutter imports:
+import 'dart:math';
 import 'package:flutter/material.dart';
 
 // Package imports:
@@ -15,6 +16,8 @@ class MapBottomPill extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
+    List<Map<String, dynamic>> farmers=[{"farmerName":"Burhan Altıntop", "farmerAvatar": "assets/imgs/farmer2.jpeg" }, {"farmerName":"Sinan Engin", "farmerAvatar": "assets/imgs/farmer3.jpeg" }] ;
 
     CategorySelectionService catSelection = Provider.of<CategorySelectionService>(context, listen: false);
     this.subCategory = catSelection.selectedSubCategory;
@@ -98,7 +101,7 @@ class MapBottomPill extends StatelessWidget {
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(50),
                         image: DecorationImage(
-                          image: AssetImage('assets/imgs/farmer2.jpeg'),
+                          image: AssetImage(farmers[0]["farmerAvatar"]),
                           fit: BoxFit.cover
                         ),
                         border: Border.all(color: this.subCategory!.color!, width: 4)
@@ -108,7 +111,7 @@ class MapBottomPill extends StatelessWidget {
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text('Burhan Altıntop',
+                        Text(farmers[0]["farmerName"],
                           style: TextStyle(fontWeight: FontWeight.bold)
                         ),
                         Text('Idealtepe Mahallesi, Avrupa Apt.\nK:3-4 D:9-12, 81580 Maltepe')
