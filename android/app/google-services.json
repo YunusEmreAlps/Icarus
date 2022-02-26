@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870284320230",
+    "firebase_url": "https://icarus-fbcb8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "icarus-fbcb8",
+    "storage_bucket": "icarus-fbcb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870284320230:android:07d3c06eb09a79dd37ca27",
+        "android_client_info": {
+          "package_name": "com.yunusemrealpu.icarus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870284320230-9tcud0r4860eb918kp3f109pk2bk8f9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yunusemrealpu.icarus",
+            "certificate_hash": "942d5976706026e8dff6fb05eeb2939818bf4feb"
+          }
+        },
+        {
+          "client_id": "870284320230-ogh6irs4i6darncsgjc26jk9ncp6tkvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi34OUfu4hTkJ3g00Df3i7NwK7hfBFu5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870284320230-ogh6irs4i6darncsgjc26jk9ncp6tkvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
