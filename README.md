@@ -30,6 +30,12 @@
       <a href="#the-story-of-icarus-name">About Icarus</a>
     </li>
     <li>
+      <a href="#todo">Todo</a>
+    </li>
+    <li>
+      <a href="#technologies">Technologies</a>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -73,7 +79,7 @@ People want to act, but see that governments are moving too slow and that indivi
 LOCAL ACTION, GLOBAL IMPACT
 
 <!-- ABOUT ICARUS -->
-## The Story of Icarus Name (App Name)
+## The Story of Icarus Name
 
 The App Name Idea Coming From -> [Iron Maiden](https://www.youtube.com/watch?v=p4w2BZXL6Ss)
 When I was listening to Iron Maiden's song, I realize this is the song of a mythological characther.
@@ -105,6 +111,12 @@ Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical mi
 - [ ] Payment System
 
 All data static right now but if something happens in this hackathon everything can be...
+
+## Technologies
+- Flutter
+- Firebase Realtime DB
+- Firebase Google Auth
+- Google Map
 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started
