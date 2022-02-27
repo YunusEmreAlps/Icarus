@@ -79,6 +79,13 @@ People want to act, but see that governments are moving too slow and that indivi
 
 LOCAL ACTION, GLOBAL IMPACT
 
+<!-- GOALS -->
+## Our Goals
+No Poverty               | Zero Hunger             |  Responsible consumption and production                |  Climate action
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://developers.google.com/community/images/gdsc-solution-challenge/goal-01_480.png?raw=true)|![](https://developers.google.com/community/images/gdsc-solution-challenge/goal-02_480.png?raw=true)|![](https://developers.google.com/community/images/gdsc-solution-challenge/goal-12_480.png?raw=true)|![](https://developers.google.com/community/images/gdsc-solution-challenge/goal-13_480.png?raw=true)|
+
+
 <!-- ABOUT ICARUS -->
 ## The Story of Icarus Name
 
