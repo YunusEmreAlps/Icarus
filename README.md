@@ -51,8 +51,6 @@
   </ol>
 </details>
 
-Note: The Presentation English for Solution Challenge
-
 <!-- ABOUT THE PROJECT -->
 ## What is Our Problem?
 I had to wonder, with all the continuing ecological crisis facing the planet even if every single one of us adopted
@@ -69,7 +67,7 @@ As of 2015, about 736 million people still lived on less than US$1.90 a day; man
 Unfortunately, extreme hunger and malnutrition remain a huge barrier to development in many countries. There are 821 million people estimated to be chronically undernourished as of 2017, often as a direct consequence of environmental degradation, drought and biodiversity loss. Over 90 million children under five are dangerously underweight.
 
 ## What is Our Solution?
-Actually This is a bazzaar app. But this percpective is really wrong about it. We aim to reduce food waste with Icarus app. 
+Actually, This is a bazaar app. But this perspective is really wrong about it. We aim to reduce food waste with the Icarus app.  
 Basic foodstuffs that cannot be sold due to economic reasons and whose expiration date has passed continue to be thrown away. The solution is simple: By selling products whose expiration date is approaching at high, discounts both waste will be reduced and the consumer will smile.
 
 We are Icarus. We will show that solving big problems like climate change, poverty and hunger is possible. Moreover, we will show that helping to solve these problems can be fun, and way easier than people think. We will show that action can be taken by your group of friends, your department of colleagues, or just by you together with strangers. You can make a real impact, make a real change, and have fun doing it.
@@ -110,7 +108,7 @@ Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical mi
 - [x] Login Success Page
 - [ ] Payment System
 
-All data static right now but if something happens in this hackathon everything can be...
+All data is static right now but if something happens in this hackathon everything can be...
 
 ## Technologies
 - Flutter
