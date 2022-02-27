@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📌 Contact
 
 - Linkedin at [Gökberk Şen](https://www.linkedin.com/in/gokberksen/) (Marketing & Presentation)
-- Linkedin at [Sema Altınışık](www.linkedin.com/in/sema-altınışık-4a1b0a206) (Marketing & Presentation)
+- Linkedin at [Sema Altınışık](https://www.linkedin.com/in/sema-altınışık-4a1b0a206) (Marketing & Presentation)
 - Linkedin at [Yunus Emre Alpu](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/) (Team & Software Lead)
 - Linkedin at [Yusuf Alpu](https://www.linkedin.com/in/yusuf-alpu-4671a9199/) (Software)
 
