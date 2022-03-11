@@ -14,6 +14,7 @@ import 'package:icarus/services/cartservice.dart';
 import 'package:icarus/widgets/categorybottombar.dart';
 import 'package:icarus/widgets/mainappbar.dart';
 import 'package:icarus/widgets/sidemenubar.dart';
+import 'package:icarus/helpers/appcolors.dart';
 
 class MainPage extends StatelessWidget {
 
@@ -68,7 +69,7 @@ class MainPage extends StatelessWidget {
                 CategoryBottomBar()
               ],
             )
-      )
+      ),
     );
   }
 }
