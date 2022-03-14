@@ -250,3 +250,4 @@ Icarus               | Icarus             | Icarus               | Icarus
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/22.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/23.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/24.png?raw=true)|![](https://github.com/YunusEmreAlps/Icarus/blob/master/ss/25.png?raw=true)|
 
+For Everything you can check [ss](https://github.com/YunusEmreAlps/Icarus/tree/master/ss) file
