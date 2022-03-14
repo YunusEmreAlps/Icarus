@@ -1,5 +1,6 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
+import 'package:icarus/helpers/appcolors.dart';
 
 // Project imports:
 import 'package:icarus/models/category.dart';

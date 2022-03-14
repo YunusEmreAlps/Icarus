@@ -1,5 +1,6 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
+import 'package:icarus/pages/donationpage.dart';
 
 // Package imports:
 import 'package:provider/provider.dart';
@@ -53,6 +54,9 @@ class MainPage extends StatelessWidget {
                           break;
                         case '/mainpage/settingspage':
                           page = SettingsPage();
+                          break;
+                        case '/mainpage/donationspage':
+                          page = DonationPage();
                           break;
                         default:
                           page = CategoryListPage();

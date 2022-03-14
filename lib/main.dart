@@ -18,6 +18,7 @@ import 'package:icarus/services/categoryselectionservice.dart';
 import 'package:icarus/services/categoryservice.dart';
 import 'package:icarus/services/loginservice.dart';
 import 'package:icarus/pages/loginsuccess.dart';
+import 'package:icarus/pages/donationpage.dart';
 import 'helpers/utils.dart';
 
 void main() {
@@ -51,6 +52,7 @@ void main() {
           '/mappage': (context) => MapPage(),
           '/onboardingpage': (context) => OnboardingPage(),
           '/loginsuccesspage': (context) => LoginSuccessPage(),
+          // '/donationpage': (context) => DonationPage(),
         },
         
       )

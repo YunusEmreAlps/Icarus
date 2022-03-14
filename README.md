@@ -71,6 +71,8 @@ of resource consumption and environmental degradation destroying the planet toda
 ## What is Our Solution?
 Actually, This is a bazaar app. But this perspective is really wrong about it. We aim to reduce food waste with the Icarus app. Basic foodstuffs that cannot be sold due to economic reasons and whose expiration date has passed continue to be thrown away. The solution is simple: By selling products whose expiration date is approaching at high, discounts both waste will be reduced and the consumer will smile.
 
+For example we have 100 products and 50 of them were sold by the manufacturer and 25 of them were sold by Icarus. Since the rest of the products are not sold, they have to be thrown away. These products can be used for pet food. Pet food and treats can use that otherwise wasted food, or at least some of it. That could reduce the demand from pet food companies for some raw materials or reduce competition between human and pet food streams.
+
 We are Icarus. We will show that solving big problems like climate change, poverty and hunger is possible. Moreover, we will show that helping to solve these problems can be fun, and way easier than people think. We will show that action can be taken by your group of friends, your department of colleagues, or just by you together with strangers. You can make a real impact, make a real change, and have fun doing it.
 
 People want to act, but see that governments are moving too slow and that individual action is too small. By offering a hub for people to unite, we amplify individual impact. At the same time this hub keeps the barrier to act low and the impact immediate. Alone we are a drop in the ocean, together we make waves.
@@ -115,14 +117,15 @@ Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical mi
 - [ ] Settings
 - [x] Login Success Page
 - [ ] Payment System
-
-All data is static right now but if something happens in this hackathon everything can be...
+- [ ] Voice Assistant (Speech to Text)
+- [x] Feed It Forward (Our Donations page)
 
 ## Technologies
 - Flutter
 - Firebase Realtime DB
 - Firebase Google Auth
 - Google Map
+- Google Calendar API (coming soon...)
 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started
