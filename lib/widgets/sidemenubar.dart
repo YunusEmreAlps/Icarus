@@ -113,7 +113,28 @@ class SideMenuBar extends StatelessWidget {
                       )
                     ],
                   ),
+                ),
+                // Voice
+                TextButton(
+                  onPressed: () async {
+                    Utils.mainListNav.currentState!.pushReplacementNamed('/mainpage/assistantpage');
+                  },
+                  child: Row(
+                    children: [
+                      Icon(Icons.keyboard_voice_outlined,
+                          color: Colors.white, size: 20),
+                      SizedBox(width: 10),
+                      Text(
+                        'Icarus Help',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 20,
+                        ),
+                      )
+                    ],
+                  ),
                 )
+              
               ],
             ),
             IconFont(

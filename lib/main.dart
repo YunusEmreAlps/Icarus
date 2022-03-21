@@ -52,7 +52,6 @@ void main() {
           '/mappage': (context) => MapPage(),
           '/onboardingpage': (context) => OnboardingPage(),
           '/loginsuccesspage': (context) => LoginSuccessPage(),
-          // '/donationpage': (context) => DonationPage(),
         },
         
       )
