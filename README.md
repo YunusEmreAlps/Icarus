@@ -2,7 +2,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/YunusEmreAlps/Icarus/tree/master/icarus">
-    <img src="ss/app_logo4.png" alt="Logo" width="400">
+    <img src="ss/app_logo_main.png" alt="Logo" width="400">
+    <img src="ss/app_logo_secondary.png" alt="Logo" width="400">
   </a>
 
   <h3 align="center">Icarus</h3>
@@ -71,7 +72,7 @@ of resource consumption and environmental degradation destroying the planet toda
 ## What is Our Solution?
 Actually, This is a bazaar app. But this perspective is really wrong about it. We aim to reduce food waste with the Icarus app. Basic foodstuffs that cannot be sold due to economic reasons and whose expiration date has passed continue to be thrown away. The solution is simple: By selling products whose expiration date is approaching at high, discounts both waste will be reduced and the consumer will smile. By selling products with a very close expiration date at a discount, we will both reduce waste and ensure that the consumer is well fed.
 
-For example we have 100 products and 50 of them were sold by the manufacturer and 25 of them were sold by Icarus. Since the rest of the products are not sold, they have to be thrown away. These products can be used for pet food. Pet food and treats can use that otherwise wasted food, or at least some of it. That could reduce the demand from pet food companies for some raw materials or reduce competition between human and pet food streams.
+For example we have 100 products and 50 of them were sold by the manufacturer and 25 of them were sold by Icarus. Since the rest of the products are not sold, they have to be thrown away. These products can be used for pet food. Pet food and treats can use that otherwise wasted food, or at least some of it. That could reduce the demand from pet food companies for some raw materials or reduce competition between human and pet food streams.  In this phase of production, we aim to reduce it to zero.
 
 LOCAL ACTION, GLOBAL IMPACT
 
