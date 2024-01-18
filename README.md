@@ -205,9 +205,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Linkedin at [Gökberk Şen](https://www.linkedin.com/in/gokberksen/) (Marketing & Presentation)
 - Linkedin at [Sema Altınışık](https://www.linkedin.com/in/sema-altınışık-4a1b0a206) (Marketing & Presentation)
 - Linkedin at [Yunus Emre Alpu](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/) (Team & Software Lead)
-- Linkedin at [Yusuf Alpu](https://www.linkedin.com/in/yusuf-alpu-4671a9199/) (Software)
 
 
+<!-- YOUTUBE -->
+## 📌 JOURNEY
+- Submission Video [YouTube](https://www.youtube.com/watch?v=6CBfAYTEkyg)
+- [Medium Article](https://medium.com/@yunus192alpu/2022-solution-challenge-28285005ed79)
+
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*K7VbiVoSft8SvDj9rYhxlQ.png?raw=true) 
 
 <!-- FIREBASE -->
 ## Firebase
